@@ -9,7 +9,7 @@ Kultra Mega Stores, a supplier of office furniture and supplies, provided histor
 
 ## 📂 File Included
 
-- `KMS_SQL_Project_Queries.sql` – A collection of all SQL queries written to solve both Scenario I and Scenario II from the case study.
+- `KMS_SQL_Query.sql` – A collection of all SQL queries written to solve both Scenario I and Scenario II from the case study.
 
 ## 🔍 Key Topics Covered
 
@@ -28,7 +28,7 @@ Kultra Mega Stores, a supplier of office furniture and supplies, provided histor
 ## 🚀 How to Use
 
 1. Clone the repository
-2. Open `KMS_SQL_Project_Queries.sql` in SSMS or any SQL editor
+2. Open `KMS_SQL_Query.sql` in SSMS or any SQL editor
 3. Connect to your database and run the queries against the `orders` table
 
 ## 📌 Author
